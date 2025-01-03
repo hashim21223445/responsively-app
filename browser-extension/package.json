@@ -44,7 +44,7 @@
 	},
 	"dependencies": {
 		"custom-protocol-check": "^1.1.0",
-		"react": "^16.13.1",
+		"react": "^19.0.0",
 		"react-dom": "^16.13.1",
 		"url-loader": "^4.1.0",
 		"webextension-polyfill": "^0.4.0"
